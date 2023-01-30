@@ -2,7 +2,8 @@
 Rest API created with Spring Boot and Java
 <img align="justify" alt="chart" width="950px" src="https://github.com/zhekovdobri/RestAPI-SpringBoot/blob/main/GET_RestAPI_SpringBoot.png?raw=true">
 ###
-<img align="justify" alt="chart" width="950px" "https://github.com/zhekovdobri/RestAPI-SpringBoot/blob/main/RestAPI_SpringBoot_Browser.png?raw=true">
+
+<img align="justify" alt="chart" width="950px" src="https://github.com/zhekovdobri/RestAPI-SpringBoot/blob/main/RestAPI_SpringBoot_Browser.png?raw=true">
 
 #### By: Dobri Zhekov
 
